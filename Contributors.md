@@ -2,6 +2,8 @@
 
 [Pratik Butani](https://github.com/pratikbutani)
 
+[Kanishka Gupta](https://github.com/kanishka98)
+
 [Ketan Vishwakarma](https://github.com/ketanvishwakarma)
 
 [bl00dh0und](https://github.com/bl00dh0und)
